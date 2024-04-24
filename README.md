@@ -8,11 +8,11 @@ In this work, we introduce a low-cost open-source flow system that includes a du
 
 The work was published in the Journal of Flow Chemistry and can be viewed here:
 
-https://link.springer.com/article/10.1007/s41981-023-00267-z
+FOMSy: 3D-printed flexible open-source microfluidic system and flow synthesis of PET-tracer. F. Menzel, J. Cotton, T. Klein, A. Maurer, T. Ziegler, J. M. Neumaier, J. Flow Chem. 2023, https://doi.org/10.1007/s41981-023-00267-z
 
 https://link.springer.com/content/pdf/10.1007/s41981-023-00267-z.pdf
 
-Detailed assembly instructions can also be downloaded here:
+A detailed assembly instructions can also be downloaded here:
 
 https://static-content.springer.com/esm/art%3A10.1007%2Fs41981-023-00267-z/MediaObjects/41981_2023_267_MOESM1_ESM.pdf
 
