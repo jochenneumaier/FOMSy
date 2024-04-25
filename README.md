@@ -16,4 +16,6 @@ A detailed assembly instructions can also be downloaded here:
 
 https://static-content.springer.com/esm/art%3A10.1007%2Fs41981-023-00267-z/MediaObjects/41981_2023_267_MOESM1_ESM.pdf
 
+All CAD and stl files as well as the Arduino and Nextion program codes can be downloaded here:
 
+https://static-content.springer.com/esm/art%3A10.1007%2Fs41981-023-00267-z/MediaObjects/41981_2023_267_MOESM2_ESM.zip
